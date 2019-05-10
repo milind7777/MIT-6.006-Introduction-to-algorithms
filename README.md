@@ -1,2 +1,2 @@
 # MIT-6.006-Introduction-to-algorithms
-codes related to all the algorithms taught (in C++)
+This reprository contains C++ implementations of the algorithms mentioned in MIT 6.006 Introduction to algorithms, Fall 2011. 
